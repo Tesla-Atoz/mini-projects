@@ -24,6 +24,8 @@
 # • Display some kind of message if no matches were found in the text.
 
 
+phone number's regex code is United States of America.. check it out in browser.
+
 import pyperclip
 import re
 
